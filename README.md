@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mohamed Alaa
-- 👀 I’m interested in Android development
+- 👋 Hi, My name is Mohamed Alaa
+     I'm a junior android developer
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on huge projects
 - 📫 How to reach me ...
