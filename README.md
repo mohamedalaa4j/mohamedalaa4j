@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Mohamed Alaa
-- :fire:  I'm a junior android developer using kotlin language
+- :fire:  I'm a native mid-level android developer using kotlin language
 -  :eyes: Checkout my repositories it's nice to give me feedback
 - :octocat: [My Portfolio](https://github.com/mohamedalaa4j/Portfolio)
 
